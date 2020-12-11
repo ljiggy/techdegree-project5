@@ -1,0 +1,40 @@
+
+
+form {
+    text-align: center;
+    width: 450px;
+    margin: auto;
+    padding-top: 20px;
+    margin-bottom: 25px;
+  }
+
+  input {
+    
+    width: 450px;
+    height: 30px;
+    margin: auto;
+    border-radius: 10px;
+    border-color: lightgrey, .8;
+    
+  }
+
+.grid-container {
+width: 50%;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+margin: 0;
+align-self: center;
+justify-content: center;
+
+}
+
+
+
+
+#lightbox.active {
+display: flex;
+justify-content: center;
+align-items: center;
+}
