@@ -1,0 +1,15 @@
+
+/* ============================================= */
+/*              Base styles                      */
+/* ============================================= */
+
+* {
+    font-family: 'Times New Roman', 'sans-serif';
+    box-sizing: border-box;
+  }
+
+body {
+  background-color: $primary;
+  max-width: 80%;
+  margin: auto;
+}
